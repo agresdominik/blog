@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>agres.dominik@gmail.com (Dominik Agres)</managingEditor>
+    <webMaster>agres.dominik@gmail.com (Dominik Agres)</webMaster>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal website.&#xA;It is built with &#xA;&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&#xA; using a template theme.&lt;/p&gt;&#xA;&lt;p&gt;According to German law, you can also find the required legal information here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;http://localhost:1313/impressum/&#34;&gt;Impressum&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;http://localhost:1313/datenschutz/&#34;&gt;Datenschutz&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/datenschutz/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/datenschutz/</guid>
+      <description>&lt;h1 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h1&gt;&#xA;&lt;p&gt;Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst.&lt;/p&gt;&#xA;&lt;h2 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h2&gt;&#xA;&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;verantwortlich&#34;&gt;Verantwortlich&lt;/h2&gt;&#xA;&lt;p&gt;Dominik Agres &lt;br&gt;&#xA;Steigerwaldstraße 30 &lt;br&gt;&#xA;74172 Neckarsulm &lt;br&gt;&#xA;&#xA;&lt;a href=&#34;mailto:agres.dominik@gmail.com&#34;&gt;agres.dominik@gmail.com&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;erfassung-von-daten&#34;&gt;Erfassung von Daten&lt;/h2&gt;&#xA;&lt;p&gt;Beim Besuch dieser Website werden automatisch technische Daten (z. B. Browsertyp, Betriebssystem, Uhrzeit des Seitenaufrufs) erfasst.&lt;/p&gt;&#xA;&lt;h2 id=&#34;deine-rechte&#34;&gt;Deine Rechte&lt;/h2&gt;&#xA;&lt;p&gt;Du hast jederzeit das Recht auf Auskunft über die Herkunft, Empfänger und Zweck deiner gespeicherten personenbezogenen Daten sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;h2 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;&#xA;&lt;p&gt;Dominik Agres &lt;br&gt;&#xA;Steigerwaldstraße 30 &lt;br&gt;&#xA;74172 Neckarsulm &lt;br&gt;&#xA;&#xA;&lt;a href=&#34;mailto:agres.dominik@gmail.com&#34;&gt;agres.dominik@gmail.com&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h2&gt;&#xA;&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;haftung-für-links&#34;&gt;Haftung für Links&lt;/h2&gt;&#xA;&lt;p&gt;Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h2&gt;&#xA;&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/whoami/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/whoami/</guid>
+      <description>&lt;h2 id=&#34;whoami&#34;&gt;Whoami&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I’m Dominik&lt;/p&gt;&#xA;&lt;p&gt;I’m passionate about technology, software, and cybersecurity.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Studied &lt;strong&gt;Software Engineering&lt;/strong&gt; at &lt;strong&gt;Heilbronn University (HHN)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Worked at &lt;strong&gt;Schwarz IT&lt;/strong&gt; in a &lt;strong&gt;Cybersecurity&lt;/strong&gt; team during my studies&lt;/li&gt;&#xA;&lt;li&gt;Wrote my Bachelors Thesis about the application of Machine Learning to optimise distinct processes in the Cybersecurity world&lt;/li&gt;&#xA;&lt;li&gt;Love exploring nature, going on hiking trips as well as driving my motorcycle&lt;/li&gt;&#xA;&lt;li&gt;Love reading books about sociology, philosophy and politics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;hiking-trips&#34;&gt;Hiking Trips&lt;/h2&gt;&#xA;&lt;p&gt;Below you can see some of my favourite Trips in Nature.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &#xA;&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Embedded Shortcodes&lt;/a&gt;&#xA; for rich content, along with a &#xA;&lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt;&#xA; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>http://localhost:1313/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

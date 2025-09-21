@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        <title>{{ i18n "home" }} | {{ .Site.Params.author.name }}</title>
+
+        {{ partial "head.html" . }}
+
+        <style>
+            .typing {
+                display: inline;
+                border-right: 20px solid #ffffff; /* green cursor */
+                white-space: nowrap;
+                overflow: hidden;
+            }
+
+            @keyframes blink {
+                0%,
+                50%,
+                100% {
+                    border-color: #ffffff;
+                }
+                25%,
+                75% {
+                    border-color: transparent;
+                }
+            }
+
+            .typing {
+                content: "";
+                animation: blink 3s step-start infinite;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="flexWrapper">
+            {{ partial "header.html" . }}
+
+            <div class="content vertical">
+                <main class="main">
+                    <div class="indexWrapper">
+                        {{ if .Site.Params.author.avatarFirst }} {{ partial
+                        "avatar.html" . }} {{ end }}
+                        <div>
+                            <h1 class="indexHeader">
+                                <span id="typedText" class="typing"></span>
+                            </h1>
+                        </div>
+                        {{ if not .Site.Params.author.avatarFirst }} {{ partial
+                        "avatar.html" . }} {{ end }} {{ if isset .Site.Params
+                        "social" }} {{ partial "social.html" . }} {{ end }}
+                    </div>
+                </main>
+            </div>
+
+            {{ partial "footer.html" . }}
+        </div>
+    </body>
+</html>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const text = "{{.Site.Params.author.name }}";
+        const element = document.getElementById("typedText");
+        let index = 0;
+
+        function type() {
+            if (index < text.length) {
+                element.textContent += text.charAt(index);
+                index++;
+                setTimeout(type, 100); // typing speed in ms
+            }
+        }
+
+        type();
+    });
+</script>

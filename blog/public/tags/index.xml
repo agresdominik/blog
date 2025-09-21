@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://agres.online/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>agres.dominik@gmail.com (Dominik Agres)</managingEditor>
     <webMaster>agres.dominik@gmail.com (Dominik Agres)</webMaster>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agres.online/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>https://agres.online/tags/index/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
+      <guid>https://agres.online/tags/index/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://agres.online/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://agres.online/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://agres.online/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Index</title>
-      <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/index/</guid>
+      <guid>https://agres.online/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://agres.online/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://agres.online/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>https://agres.online/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>https://agres.online/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
+      <link>https://agres.online/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <guid>https://agres.online/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
+      <link>https://agres.online/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/text/</guid>
+      <guid>https://agres.online/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
+      <link>https://agres.online/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <guid>https://agres.online/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

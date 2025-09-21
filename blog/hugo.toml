@@ -43,8 +43,8 @@ showAuthors = false        # Show authors on post page
 showCategories = true     # Show categories on post page
 
   [params.author]
-    name = "Dominik Agres"  # Website and RSS feed author
-    email = "agres.dominik@gmail.com"  # RSS feed email address
+    name = "Dominik Agreš"  # Website and RSS feed author
+    email = "dominik@agres.online"  # RSS feed email address
 
 [[params.social]]
 key = 0
@@ -63,5 +63,5 @@ aria = "LinkedIn Profile"
 [[params.social]]
 key = 2
 name = "email"
-url = "mailto:agres.dominik@gmail.com"
+url = "mailto:dominik@agres.online"
 aria = "My e-Mail Address"

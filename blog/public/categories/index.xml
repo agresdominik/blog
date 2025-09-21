@@ -6,23 +6,8 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>agres.dominik@gmail.com (Dominik Agres)</managingEditor>
-    <webMaster>agres.dominik@gmail.com (Dominik Agres)</webMaster>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <managingEditor>dominik@agres.online (Dominik Agreš)</managingEditor>
+    <webMaster>dominik@agres.online (Dominik Agreš)</webMaster>
     <atom:link href="https://agres.online/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Syntax</title>
-      <link>https://agres.online/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>https://agres.online/categories/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>https://agres.online/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>agres.dominik@gmail.com (Dominik Agres)</author>
-      <guid>https://agres.online/categories/themes/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

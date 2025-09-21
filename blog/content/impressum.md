@@ -10,7 +10,7 @@ date = "2025-09-21"
 Dominik Agres \
 Steigerwaldstraße 30 \
 74172 Neckarsulm \
-agres.dominik@gmail.com
+dominik@agres.online
 
 ## Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.

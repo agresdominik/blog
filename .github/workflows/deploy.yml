@@ -26,7 +26,7 @@ jobs:
           git pull origin main
 
           # Copy compiled Hugo site to web root
-          sudo rsync -av --delete --no-group --no-owner /home/agres/blog/public/ /var/www/agres.online/
+          sudo rsync -av --delete --no-group --no-owner /home/agres/blog/blog/public/ /var/www/agres.online/
 
           # Fix permissions and SELinux
           sudo chown -R nginx:nginx /var/www/agres.online

@@ -11,7 +11,7 @@ Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst.
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen.
 
 ## Verantwortlich
-Dominik Agres \
+Dominik Agreš \
 Steigerwaldstraße 30 \
 74172 Neckarsulm \
 dominik@agres.online

@@ -7,7 +7,7 @@ date = "2025-09-21"
 
 ## Angaben gemäß § 5 TMG
 
-Dominik Agres \
+Dominik Agreš \
 Steigerwaldstraße 30 \
 74172 Neckarsulm \
 dominik@agres.online

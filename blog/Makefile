@@ -3,7 +3,7 @@ DEST := public
 HUGO := hugo
 
 build:
-	$(HUGO) --cleanDestinationDir -b $(BASE_URL)
+	$(HUGO) --cleanDestinationDir --minify -b $(BASE_URL)
 
 serve:
 	$(HUGO) server -D

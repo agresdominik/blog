@@ -3,8 +3,9 @@ author = "Dominik Agres"
 date = "2025-09-21"
 +++
 
+---
 
-## Whoami
+## whoami
 
 Hi, I’m Dominik
 
@@ -16,6 +17,7 @@ I’m passionate about technology, software, and cybersecurity.
 - Love exploring nature, going on hiking trips as well as driving my motorcycle
 - Love reading books about sociology, philosophy and politics
 
+---
 
 ## Hiking Trips
 
@@ -45,6 +47,7 @@ Below you can see some of my favourite Trips in Nature.
 
 </div>
 
+---
 
 ## Books
 
@@ -60,6 +63,7 @@ Reading right now:
 - [Nexus - Yuval Noah Harari]()
 - [Atomic Habits - James Clear]()
 
+---
 
 ## PGP Key
 
@@ -116,3 +120,5 @@ Fingerprint:
 ```
 896B 3FF1 2E82 A80C 10F6  42CB 4634 761C A7CE E0A
 ```
+
+---

@@ -1,11 +1,8 @@
 +++
 author = "Dominik Agres"
 date = "2025-09-21"
+title = "Whoami"
 +++
-
----
-
-## whoami
 
 Hi, I’m Dominik
 
@@ -19,7 +16,7 @@ I’m passionate about technology, software, and cybersecurity.
 
 ---
 
-## Hiking Trips
+## Hikes
 
 Below you can see some of my favourite Trips in Nature.
 
@@ -32,7 +29,7 @@ Below you can see some of my favourite Trips in Nature.
 
 <div>
   {{< optimized-image src="images/Schrecksee.jpeg" width="800" alt="Alpen" >}}
-  <p><small>Schrecksee – September 2025</small></p>
+  <p><small>Schrecksee – September 2024</small></p>
 </div>
 
 <div>
@@ -68,7 +65,7 @@ Reading right now:
 
 ## PGP Key
 
-If you want to send me encrypted messages:
+If you want to send me encrypted messages use the following [PGP-Key](/publickey.asc):
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -113,8 +110,6 @@ HK+dEsiN2r/KxgpAych6xtyuxQ==
 =OLgg
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-Or download the [key](/publickey.asc).
 
 Fingerprint:
 

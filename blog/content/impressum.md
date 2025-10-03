@@ -1,9 +1,8 @@
 +++
 author = "Dominik Agres"
 date = "2025-09-21"
+title = "Impressum"
 +++
-
-# Impressum
 
 ## Angaben gemäß § 5 TMG und § 18 MStV
 

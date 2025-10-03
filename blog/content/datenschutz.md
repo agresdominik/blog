@@ -1,9 +1,8 @@
 +++
 author = "Dominik Agres"
 date = "2025-09-21"
+title = "Datenschutz"
 +++
-
-# Datenschutzerklärung
 
 ## Allgemeine Hinweise
 

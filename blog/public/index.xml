@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://agres.online/</link><description>Recent content on</description><generator>Hugo</generator><language>en-us</language><managingEditor>dominik@agres.online (Dominik Agreš)</managingEditor><webMaster>dominik@agres.online (Dominik Agreš)</webMaster><lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://agres.online/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://agres.online/about/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/about/</guid><description>&lt;h1 id="about"&gt;About&lt;/h1&gt;
-&lt;p&gt;This is my personal website.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://agres.online/</link><description>Recent content on</description><generator>Hugo</generator><language>en-us</language><managingEditor>dominik@agres.online (Dominik Agreš)</managingEditor><webMaster>dominik@agres.online (Dominik Agreš)</webMaster><lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://agres.online/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://agres.online/about/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/about/</guid><description>&lt;p&gt;This is my personal website.
 It is built with 
 &lt;a href="https://gohugo.io" target="_blank" rel="noopener"&gt;Hugo&lt;/a&gt;
- using the template theme Nightfall.&lt;/p&gt;
+ using the template theme 
+&lt;a href="https://github.com/LordMathis/hugo-theme-nightfall" target="_blank" rel="noopener"&gt;Nightfall&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;According to German law, you can also find the required legal information here:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -11,16 +12,14 @@ It is built with
 &lt;li&gt;
 &lt;a href="https://agres.online/datenschutz/"&gt;Datenschutz&lt;/a&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title/><link>https://agres.online/datenschutz/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/datenschutz/</guid><description>&lt;h1 id="datenschutzerklärung"&gt;Datenschutzerklärung&lt;/h1&gt;
-&lt;h2 id="allgemeine-hinweise"&gt;Allgemeine Hinweise&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Datenschutz</title><link>https://agres.online/datenschutz/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/datenschutz/</guid><description>&lt;h2 id="allgemeine-hinweise"&gt;Allgemeine Hinweise&lt;/h2&gt;
 &lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz finden Sie in dieser Datenschutzerklärung.&lt;/p&gt;
 &lt;h2 id="datenerfassung"&gt;Datenerfassung&lt;/h2&gt;
 &lt;p&gt;Wer ist verantwortlich für die Datenerfassung? Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.&lt;/p&gt;
 &lt;h2 id="wie-werden-ihre-daten-erfasst"&gt;Wie werden Ihre Daten erfasst?&lt;/h2&gt;
 &lt;p&gt;Ihre Daten werden zum einen dadurch erhoben, dass Sie mir diese mitteilen (z. B. über eine Kontaktaufnahme per E-Mail).
 Es werden keine technischen Daten gespeichert und erfasst (z.B. Internetbrowser, Betriebssystem IP-Adresse oder Uhrzeit), da die Protokollierung deaktiviert ist.
-Wofür nutzen wir Ihre Daten? Die von Ihnen übermittelten Daten (z. B. per E-Mail) werden ausschließlich zur Bearbeitung Ihrer Anfrage verwendet.&lt;/p&gt;</description></item><item><title/><link>https://agres.online/impressum/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/impressum/</guid><description>&lt;h1 id="impressum"&gt;Impressum&lt;/h1&gt;
-&lt;h2 id="angaben-gemäß--5-tmg-und--18-mstv"&gt;Angaben gemäß § 5 TMG und § 18 MStV&lt;/h2&gt;
+Wofür nutzen wir Ihre Daten? Die von Ihnen übermittelten Daten (z. B. per E-Mail) werden ausschließlich zur Bearbeitung Ihrer Anfrage verwendet.&lt;/p&gt;</description></item><item><title>Impressum</title><link>https://agres.online/impressum/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/impressum/</guid><description>&lt;h2 id="angaben-gemäß--5-tmg-und--18-mstv"&gt;Angaben gemäß § 5 TMG und § 18 MStV&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Name&lt;/strong&gt; &lt;br&gt;
 Dominik Agreš&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Anschrift&lt;/strong&gt; &lt;br&gt;
@@ -32,9 +31,7 @@ DE&lt;/p&gt;
 &lt;a href="mailto:dominik@agres.online"&gt;dominik@agres.online&lt;/a&gt;
 &lt;/p&gt;
 &lt;h2 id="haftung-für-inhalte"&gt;Haftung für Inhalte&lt;/h2&gt;
-&lt;p&gt;Als Diensteanbieter bin ich gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.&lt;/p&gt;</description></item><item><title/><link>https://agres.online/whoami/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/whoami/</guid><description>&lt;hr&gt;
-&lt;h2 id="whoami"&gt;whoami&lt;/h2&gt;
-&lt;p&gt;Hi, I’m Dominik&lt;/p&gt;
+&lt;p&gt;Als Diensteanbieter bin ich gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.&lt;/p&gt;</description></item><item><title>Test</title><link>https://agres.online/post/test/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/post/test/</guid><description>&lt;p&gt;This is a test post for the blog site&lt;/p&gt;</description></item><item><title>Whoami</title><link>https://agres.online/whoami/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/whoami/</guid><description>&lt;p&gt;Hi, I’m Dominik&lt;/p&gt;
 &lt;p&gt;I’m passionate about technology, software, and cybersecurity.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Studied &lt;strong&gt;Software Engineering&lt;/strong&gt; at &lt;strong&gt;Heilbronn University (HHN)&lt;/strong&gt;&lt;/li&gt;
@@ -44,5 +41,5 @@ DE&lt;/p&gt;
 &lt;li&gt;Love reading books about sociology, philosophy and politics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id="hiking-trips"&gt;Hiking Trips&lt;/h2&gt;
-&lt;p&gt;Below you can see some of my favourite Trips in Nature.&lt;/p&gt;</description></item><item><title>Test</title><link>https://agres.online/post/test/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><author>dominik@agres.online (Dominik Agreš)</author><guid>https://agres.online/post/test/</guid><description>&lt;p&gt;This is a test post for the blog site&lt;/p&gt;</description></item></channel></rss>
+&lt;h2 id="hikes"&gt;Hikes&lt;/h2&gt;
+&lt;p&gt;Below you can see some of my favourite Trips in Nature.&lt;/p&gt;</description></item></channel></rss>
